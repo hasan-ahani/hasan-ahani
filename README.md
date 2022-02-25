@@ -49,6 +49,6 @@ And now I work as a Full-Stack Developer on startup projects
 
 ### Stay in touch:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/hasan-ahani)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=instagram&logoColor=white)](https://instagram.com/hasan-ahani)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=instagram&logoColor=white)](https://instagram.com/hasan.ahani)
   
   
