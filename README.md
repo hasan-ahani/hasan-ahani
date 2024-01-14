@@ -1,7 +1,8 @@
 <h1 align="center">Hi there , I Am Hasan Ahani 👋</h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasan-ahani&show_icons=true&theme=dark"/> 
-</p>
+<a href="https://github.com/irazasyed" align="center">
+
+  <img src="/github-metrics.svg"/> 
+</a>
 
 <p align="center">
 Hi, I am Hasan Ahani
