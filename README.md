@@ -1,55 +1,20 @@
-<h1 align="center">Hi there , I'm Hassan Ahani 👋</h1>
-<a href="https://github.com/irazasyed" align="center">
+> A full-stack web developer and internet entreprenuer with over a decade of expertise.
+
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=hasan-ahani&style=flat-square" alt="Profile Visits"> 
+  <a href="https://github.com/hasan-ahani" target="_blank">
+    <img alt="Follow on GitHub" src="https://img.shields.io/github/followers/hasan-ahani?label=Follow&style=social">
+  </a>
+  <a href="https://linkedin.com/in/hasan-ahani" target="_blank">
+    <img alt="Follow on GitHub" src="https://camo.githubusercontent.com/818f89286fc89f5ab6355b98540bb78634eb63c57804d19015c96252609db0db/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030303f266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d303037374235">
+  </a>
+  <a href="https://instagram.com/hasan.ahani" target="_blank">
+    <img alt="Follow on GitHub" src="https://camo.githubusercontent.com/ec8bfb0df0620fa55ccb580a3bddf34e85179ad5af1d0b694a3f5ec02e167a32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d3030303f266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465">
+  </a>
+</p>
+
+<a href="https://github.com/hasan-ahani" align="center">
 
   <img src="/github-metrics.svg"/> 
 </a>
-
-<p align="center">
-Hi, I am Hasan Ahani
-Dynamic and creative software developer with over Six years of experience in generating strong code for large companies. With first-class coding skills. As well as active and interested in startups and trying to help them
-I love programming and problem solving
-And in fact, I love JavaScript
-I first started as a Back-End Developer and worked with and helped various companies
-And now I work as a Full-Stack Developer on startup projects
- </p>
- 
- <img align="left" height="200" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```diff
-+ Living in Birjand , Iran
-! Web developer
-/ Visual Designer
-```
-<br>
-<img src="https://komarev.com/ghpvc/?username=hasan-ahani&color=green">
-<br>
-
-
-<div align="center">
-  
-  ### Technology:
-![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vuedotjs)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
-![PHP](https://img.shields.io/badge/-Php-000?&logo=Php&logoColor=7377ad)
-![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=Wordpress&logoColor=207195)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware&logoColor=0052CC)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=ea4c1d)
-
-### IDEs:
-![PhpStorm](https://img.shields.io/badge/-PhpStorm-000?&logo=PhpStorm&logoColor=179EDC)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
-
-### Databases:
-![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
-
-### Stay in touch:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/hasan-ahani)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=instagram&logoColor=white)](https://instagram.com/hasan.ahani)
-  
-  
