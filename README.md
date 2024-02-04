@@ -1,4 +1,4 @@
-<h1 align="center">Hi there , I Am Hasan Ahani 👋</h1>
+<h1 align="center">Hi there , I'm Hassan Ahani 👋</h1>
 <a href="https://github.com/irazasyed" align="center">
 
   <img src="/github-metrics.svg"/> 
